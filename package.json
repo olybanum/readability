@@ -1,6 +1,6 @@
 {
   "name": "@heimdall/readability",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A standalone version of the readability library used for Firefox Reader View.",
   "main": "Readability.js",
   "scripts": {
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/readability"
+    "url": "https://github.com/olybanum/readability.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mozilla/readability/issues"
+    "url": "https://github.com/olybanum/readability/issues"
   },
   "engines": {
     "node": ">=7.0"
   },
-  "homepage": "https://github.com/mozilla/readability",
+  "homepage": "https://github.com/olybanum/readability",
   "devDependencies": {
     "chai": "^2.1.*",
     "eslint": ">=4.2",
